@@ -6,6 +6,7 @@ This repository contains 50 frontend projects that were developed to help develo
 <a href="https://clever-snickerdoodle-eae6a1.netlify.app/">02.Fliping cradit-card animation</a><br>
 <a href="https://wondrous-squirrel-1f102b.netlify.app/">03.Custom dropdown list</a><br>
 <a href="https://cosmic-queijadas-612043.netlify.app/">04.Login form in html and css</a><br>
+<a href="https://gilded-crumble-629597.netlify.app/">05.QR code generator</a><br>
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
 <p>git clone https://github.com/Karan60/50-Front-end-Projects.git</p>
