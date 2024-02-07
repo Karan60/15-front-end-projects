@@ -26,7 +26,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 20px; /* Added margin for spacing on mobile */
 }
 
 .search input {
@@ -113,7 +112,7 @@ body {
 /* Mobile */
 @media only screen and (max-width: 600px) {
     .card {
-        width: 70%;
+        width: 90%;
         border-radius: 10px; /* Adjusted for full width */
         margin-top: 50px; /* Adjusted margin for mobile */
         padding: 20px; /* Adjusted padding for mobile */
