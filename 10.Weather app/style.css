@@ -1,13 +1,16 @@
-*{
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'poppins',sans-serif;
+    font-family: 'poppins', sans-serif;
 }
-body{
+
+body {
     background: #222;
 }
-.card{
+
+.card {
     width: 90%;
     max-width: 470px;
     background: linear-gradient(135deg, #00feba, #5b548a);
@@ -17,13 +20,16 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
-.search{
+
+.search {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 20px; /* Added margin for spacing on mobile */
 }
-.search input{
+
+.search input {
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -32,10 +38,10 @@ body{
     height: 60px;
     border-radius: 30px;
     flex: 1;
-    margin-right: 16px;
     font-size: 18px;
 }
-.search button{
+
+.search button {
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -44,42 +50,79 @@ body{
     height: 60px;
     cursor: pointer;
 }
-.search  button img{
+
+.search button img {
     width: 16px;
 }
-.weather-icon{
+
+.weather-icon {
     width: 170px;
     margin-top: 30px;
 }
-.weather h1{
+
+.weather h1 {
     font-size: 80px;
     font-weight: 500;
 }
-.weather h2{
+
+.weather h2 {
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
 }
-.details{
+
+.details {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 20px;
     margin-top: 50px;
 }
-.col{
+
+.col {
     display: flex;
     align-items: center;
     text-align: left;
 }
-.col img{
+
+.col img {
     width: 40px;
     margin-right: 10px;
 }
-.humidity, wind{
+
+.humidity,
+.wind {
     font-size: 28px;
     margin-top: -6px;
 }
-.weather{
+
+.weather {
     display: none;
 }
+
+.error {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+}
+
+/* Responsive Properties */
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+    .card {
+        width: 70%;
+        border-radius: 10px; /* Adjusted for full width */
+        margin-top: 50px; /* Adjusted margin for mobile */
+        padding: 20px; /* Adjusted padding for mobile */
+    }
+     /* Stack search input and button */
+    
+    .search input{
+        width: 60%;
+    }
+    
+}
+
