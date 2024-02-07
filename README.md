@@ -11,7 +11,7 @@ This repository contains 50 frontend projects that were developed to help develo
 <a href="https://visionary-salamander-e23101.netlify.app/">07.happy birthday animation</a><br>
 <a href="https://graceful-stardust-84bf1a.netlify.app/">08.realistic candle animation</a><br>
 <a href="https://meek-nougat-8faa1b.netlify.app/">09.Quiz app</a><br>
-<a href="https://adorable-pegasus-c93a7e.netlify.app/">10.Weather app</a><br>
+<a href="https://luminous-concha-854dda.netlify.app/">10.Weather app</a><br>
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
 <p>git clone https://github.com/Karan60/50-Front-end-Projects.git</p>
