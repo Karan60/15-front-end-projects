@@ -112,7 +112,7 @@ body {
 /* Mobile */
 @media only screen and (max-width: 600px) {
     .card {
-        width: 90%;
+        width: 95%;
         border-radius: 10px; /* Adjusted for full width */
         margin-top: 50px; /* Adjusted margin for mobile */
         padding: 20px; /* Adjusted padding for mobile */
@@ -122,6 +122,8 @@ body {
     .search input{
         width: 60%;
     }
-    
+    .details{
+        padding:10px;
+    }
 }
 
