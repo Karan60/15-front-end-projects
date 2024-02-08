@@ -21,4 +21,4 @@ Each project is contained within its own folder. To view the project, simply ope
 # Contributing
 If you would like to contribute to this repository, feel free to submit a pull request or open an issue. We welcome contributions from the community to make these projects even better! 
 # License
-This project is licensed under the Boost Software License 1.0  - see the <a href="https://github.com/Karan60/The-50-Front-end-Project/LICENSE">LICENSE </a> file for details.
+This project is licensed under the Boost Software License 1.0  - see the <a href="https://github.com/Karan60/The-50-Front-end-Projects/blob/main/LICENSE">LICENSE </a> file for details.
