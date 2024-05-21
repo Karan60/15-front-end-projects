@@ -16,6 +16,7 @@ This repository contains 50 frontend projects that were developed to help develo
 <a href="https://tic-tac-toe-game-by-karan.netlify.app/">12.Tic-Tac-Toe Game</a><br>
 <a href="https://karan-portfolio60.netlify.app/">13.Portfolio website</a><br>
 <a href="https://code-editor-by-karan.netlify.app/">14.Own code editor</a><br>
+<a href="https://text-to-speak-by-karan.netlify.app/">15.Text To Speech converter</a><br>
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
 <p>git clone https://github.com/Karan60/50-Front-end-Projects.git</p>
