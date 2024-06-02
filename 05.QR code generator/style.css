@@ -1,5 +1,5 @@
 :root{
-    --primary-color:#155e75;
+    --primary-color:#000000;
     --border-radius:8px;
     --secondary-color:#fff;
     --border-color:#7fb7c9;
@@ -16,13 +16,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background:rgb(224, 45, 22);
+    background:rgb(0, 0, 0);
 }
 .box{
     background:linear-gradient(rgb(2, 2, 119),rgb(4, 109, 151));
     padding: 30px;
     width: 400px;
     border-radius: var(--border-radius);
+    box-shadow:  inset 0 0 10px 5px rgba(0, 253, 253, 0.6);
 }
 .qr-header input{
     width: 100%;
@@ -80,5 +81,4 @@ body{
         padding: 12px;
         font-size: 16px;
     }
-    
 }
