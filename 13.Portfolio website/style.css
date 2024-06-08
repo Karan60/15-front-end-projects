@@ -288,14 +288,15 @@ body {
 .container1 {
     width: 600px;
     max-height: 500px;
-    padding: 10px;
-    margin-left: 100px;
+    padding: 20px;
+    margin: 0 auto; 
 }
+
 .container2 {
     width: 600px;
     max-height: 500px;
     padding: 10px;
-    margin-left: 100px;
+    margin: 0 auto; 
 }
 
 .heading1 {
